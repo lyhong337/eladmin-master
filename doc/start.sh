@@ -1,0 +1,1 @@
+nohup java -jar eladmin-system-2.0.jar --spring.profiles.active=prod &
